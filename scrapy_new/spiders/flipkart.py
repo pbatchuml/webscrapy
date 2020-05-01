@@ -1,5 +1,5 @@
 import scrapy
-from new.items import flipkart
+from scrapy_new.items import flipkart
 
 
 class FlipkartProductSpider(scrapy.Spider):
